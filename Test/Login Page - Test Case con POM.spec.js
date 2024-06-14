@@ -24,4 +24,11 @@ describe("Login Page Test Case con POM", () => {
     let text = await products.getText();
     assert.equal(text, "Products");
   });
+
+  //Agrega mas casos de prueba, ejemplo:
+  it("etc", async () => {
+    //...
+  });
+
+
 });

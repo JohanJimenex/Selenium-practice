@@ -22,4 +22,9 @@ describe("Login Page Test Case", function () {
     let text = await products.getText();
     assert.equal(text, "Products");
   });
+
+  //Agrega mas casos de prueba
+  it("etc", async () => {
+    //...
+  });
 });
