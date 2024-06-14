@@ -26,9 +26,9 @@ describe("Login Page Test Case con POM", () => {
   });
 
   //Agrega mas casos de prueba, ejemplo:
-  it("etc", async () => {
-    //...
-  });
+  // it("etc", async () => {
+  //   //...
+  // });
 
 
 });
